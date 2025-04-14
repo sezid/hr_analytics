@@ -1,4 +1,4 @@
-# HR Analytics Dashboard - Power BI Case Study (DataCamp)
+# HR Analytics Dashboard - Power BI Case Study 
 
 This project demonstrates a comprehensive HR analytics dashboard created using Power BI for a fictitious software company, Atlas Labs. The dashboard provides insights into key HR metrics such as employee performance, attrition rates, and retention factors. The goal is to identify patterns that help the organization improve employee retention and make data-driven HR decisions.
 
