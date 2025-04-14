@@ -30,10 +30,10 @@ The dataset includes employee information such as age, tenure, performance ratin
 
 ## Dashboard:
 
-- [Overview](images/overview.jpg)
-- [Demographics](images/demographics.jpg)
-- [Performance](images/performance.jpg)
-- [Attrition](images/attrition.jpg)
+![Overview](images/overview.jpg)
+![Demographics](images/demographics.jpg)
+![Performance](images/performance.jpg)
+![Attrition](images/attrition.jpg)
 
 ---
 
